@@ -7,7 +7,6 @@ You can use this bash script for Backup your virtual hosts or similar folder str
 * Upload remote FTP Server
 * Delete uploaded backup file from temporary folder.
 
-
-- Make sure you define the folders correctly.
+PS: Make sure you define the folders correctly.
 
 https://kemalozcelik.com
