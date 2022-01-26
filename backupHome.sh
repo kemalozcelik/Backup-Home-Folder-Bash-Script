@@ -29,7 +29,7 @@ FINAMEIND="$file-$DW.tar.gz"
 FINAME="$FOLDER/$FINAMEIND"
 tar -czvf $FINAME $file
 ftp -n -v $HOST << EOT
-passive
+PASV
 user $USER $PASSWD
 prompt
 lcd $FOLDER
